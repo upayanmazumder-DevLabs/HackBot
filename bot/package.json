@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/upayanmazumder/HackBot#readme",
   "dependencies": {
-    "discord.js": "^14.18.0",
+    "discord.js": "^14.26.2",
     "dotenv": "^16.4.7"
   }
 }
